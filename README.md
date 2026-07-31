@@ -32,13 +32,10 @@ The project follows a 5-stage automated pipeline:
 
 ---
 
-## 🎥 Video Demonstration & Screenshots
-
-### Dashboard Preview
-![Dashboard Screenshot](path/to/screenshot.png)
+## 🎥 Video Demonstration 
 
 ### Video Walkthrough
-![My Dashboard Demo](demo.gif)
+![My Dashboard Demo](https://github.com/Shubhyam-f/INDIAN-STOCK-MARKET-ANALYSIS/blob/main/Stock%20market%20analysis%20video.gif)
 
 ---
 
