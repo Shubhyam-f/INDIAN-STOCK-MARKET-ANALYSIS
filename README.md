@@ -47,3 +47,4 @@ Indian_Stock_Project/
 ├── export_raw_data.py                # Python script for SQL extraction & raw export
 ├── raw_stock_data.xlsx               # Automated raw data source file (safe to overwrite)
 └── MAIN_EXECUTIVE_DASHBOARD.xlsx     # Final executive-level visual dashboard
+**Note : All the analysis done in this project is for practise and learning purpose only, it is not meant to be taken for any consideration in real-life Stock market**
